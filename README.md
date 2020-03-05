@@ -1,1 +1,1 @@
-# Stock-Prediction-with-RNN-and-LSTM
+# Stock-Prediction-with-PyTorch_RNN-and-LSTM
